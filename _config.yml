@@ -3,7 +3,7 @@ name: "Cloud Group"
 title: "Cloud & Interactive Computing Group"
 description: "Cloud & Interactive Computing, Texas Advanced Computing Center, University of Texas, Austin"
 url: ""
-baseurl: ""
+baseurl: "cicsite"
 
 
 # Build
