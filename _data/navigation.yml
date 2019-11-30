@@ -1,0 +1,25 @@
+- title: Home
+  url: /
+- title: People
+  url: /people.html
+- title: Papers
+  url: /papers.html
+- title: Software
+  url: /software.html
+  sublinks:
+    - title: Tapis API
+      url: /software#tapis.html
+    - title: Abaco API
+      url: /software#abaco.html
+    - title: TACC JupyterHub
+      url: /software#jupyterhub.html
+    - title: JetStream
+      url: /software#jetstream.html
+    - title: Chameleon
+      url: /software#chameleon.html
+- title: Teaching & Training
+  url: /teaching.html
+- title: Openings
+  url: /openings.html
+- title: Support
+  url: /support.html

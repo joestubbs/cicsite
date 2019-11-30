@@ -1,0 +1,30 @@
+- year: 2019
+  articles:
+    - "Anagha J, Packard M, Stubbs J, Curbelo G, Shapi R, and Chalhoub E. SSH-Backed API Performance Case Study. Bench19: Benchmarking, Measuring and Optimizing. November 14-16, 2019."
+    - "Powell J, Stubbs J, Cleveland S, Pierce S and Daniels M. Streamed Data via Cloud-Hosted Real-Time Data Services for the Geosciences as an Ingestion Interface into the Planet Texas Science Gateway and Integrated Modeling Platform. Gateways 2019."
+    - "Cleveland S, Jamthe A, Padhy S, Stubbs J, Powell H, Daniels M, Pierce S, and Jacobs G. Tapis-CHORDS Integration: Time-Series Data Support in Science Gateway Infrastructure, Gateways 2019."
+    - "Keahey K, Anderson J, Ruth P, Colleran J, Hammock C, Stubbs J and Zhen Z. Operational Lessons from Chameleon. Humanware Advancing Research in the Cloud (HARC). PEARC 19 Workshop."
+    - "Brookes E., Stubbs J. GenApp, Containers and Abaco. Proceedings of the Practice and Experience on Advanced Research Computing, PEARC 2019."
+- year: 2018
+  articles:
+    - "Stubbs J., Vaughn M., Looney J. Rapid Development of Scalable, Distributed Computation with Abaco. Proceedings of the 10th International Workshop on Science Gateways, 2018."
+    - "Arora R., Dooley R., Looney J., Poindexter M., Stubbs J. Design and Architecture of a Gateway for Supporting Both Batch and Interactive Computing Modes on Supercomputers. Gateways 2018."
+    - "Proctor W. C., Packard M., Jamthe A., Cardone R., Stubbs J. Virtualizing the Stampede2 Supercomputer with Applications to HPC in the Cloud. Proceedings of the Practice and Experience on Advanced Research Computing, PEARC 2018. July 22 - 26, 2018."
+    - "Cleveland S. B., Dooley R., Perry D., Stubbs J., Fonner J., Jacobs G. A. Building Science Gateway Infrastructure in the Middle of the Pacific and Beyond: Experiences using the Agave Deployer and Agave Platform to Build Science Gateways. Proceedings of the Practice and Experience on Advanced Research Computing, PEARC 2018. July 22 - 26, 2018."
+    - "Stubbs J., Terry S., Poindexter M., Looney J. TACC's Cloud Deployer: Automating the Management of Distributed Software Systems. The 2nd Industry/University Joint International Workshop on Data Center Automation, Analytics, and Control (DAAC). Supercomputing 2018."
+- year: 2017
+  articles:
+    - "Stubbs J., ​Talley S., Moreira W., Stapleton A., Dooley R. Endofday: A Container Workflow Engine for Scalable, Reproducible Computation. 8th International Workshop on Science Gateways. To appear in PeerJ Computer Science."
+    - "Stubbs J., Dooley R., Vaughn M. Containers-as-a-service via the Actor Model.  (Extended Abstract). Proceeding of the 11th Gateway Computing Environments Conference."
+- year: Prior to 2017
+  articles:
+    - "Stubbs J., Dooley R., Vaughn M. Containers-as-a-service via the Actor Model.  (Extended Abstract). Proceeding of the 11th Gateway Computing Environments Conference."
+    - "Stubbs J., Moreira W., Dooley R. Distributed Systems of Microservices Using Docker and Serfnode. Proceedings of the 7th International Workshop on Science Gateways. IEEE, 2015. doi:10.1109/IWSG.2015.16"
+    - "Krishnakumar V., Hanlon M., Contrino S., Ferlanti E., Karamycheva S., Kim M., Rosen B., Cheng C., Moreira W., Mock S., Stubbs J., Sullivan J., Krampis K., Miller J., Micklem G., Vaughn M,. Town C. Araport: the Arabidopsis Information Portal. Nucleic Acids Research (18) 2015. doi: 10.1093/nar/gku1200"
+    - "Hanlon M., Vaughn W., Mock S., Dooley R., Moreira W., Stubbs J, Town C., Miller J., Krishnakumar V., Ferlanti E., Pence E. Araport: An application platform for data discovery. Concurrency and Computation Practice and Experience 27(16). April 2015. DOI: 10.1002/cpe.3542"
+    - "Dooley R., Stubbs J., Basney J. The MyProxy Gateway. Proceedings of the 6th International Workshop on Science Gateways. IEEE, 2014. doi: 10.1109/IWSG.2014.8."
+    - "Hanlon M., Vaughn W., Mock S., Dooley R., Moreira W., Stubbs J, Town C., Miller J., Krishnakumar V., Ferlanti E., Pence E. The arabidopsis information portal: an application platform for data discovery. Proceedings of the 9th Gateway Computing Environments Workshop. Pages 38-41. DOI:10.1109/GCE.2014.10"
+    - "Dooley R., Stubbs J. Dynamically Provisioning Portable Gateway Infrastructure Using Docker and Agave. XSEDE 14 Conference Proceedings. doi:10.1145/2616498.2616561"
+    - "Basney J., Gaynor J., Marru S., Pierce M., Kanewala T., Dooley R., Stubbs J. Integrating Science Gateways with XSEDE Security: A Survey of Credential Management Approaches. XSEDE 14 Conference Proceedings. doi:10.1145/2616498.2616559"
+    -
+
