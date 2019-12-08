@@ -9,10 +9,10 @@ was formed in March, 2017 with three mployees. Today, CIC is comprised of
 devops engineering topics.  
 
 <div>
-<h2>Lead, Principle Investigator</h2>
+<h2>Group Lead</h2>
 <img src="joe.jpg" height="200" width="200">
 <p>Joe Stubbs, PhD <br>
-Research Associate, <a href="https://www.tacc.utexas.edu/about/directory/joe-stubbs">Staff Bio</a></p>
+Research Associate, <i>Principal Investigator</i>; <a href="https://www.tacc.utexas.edu/about/directory/joe-stubbs">Staff Bio</a></p>
 </div>
 
 <br>
