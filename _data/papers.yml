@@ -1,3 +1,12 @@
+- year: 2020
+  articles:
+    - "Joe Stubbs, Julia Looney, Marjo Poindexter, Elias Chalhoub, Gregory J. Zynda, Erik S. Ferlanti, Matthew Vaughn, John M. Fonner, and Maytal Dahan. 2020. Integrating Jupyter into Research Computing Ecosystems: Challenges and Successes in ArchitectingJupyterHub for Collaborative Research Computing Ecosystems. In Practice and Experience in Advanced Research Computing (PEARC’20), July 26–30, 2020, Portland, OR, USA.ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3311790.3396648."
+    - "Sean B. Cleveland, Anagha Jamthe, Smruti Padhy, Joe Stubbs, Michael Packard, Julia Looney, Steve Terry, Richard Cardone, Maytal Dahan, and Gwen A. Jacobs. 2020. Tapis API Development with Python: Best Practices In Sci-entific REST API Implementation: Experience implementing a distributed Stream API. InPractice and Experience in Advanced Research Computing (PEARC ’20), July 26–30, 2020, Portland, OR, USA.ACM, New York, NY, USA,7 pages. https://doi.org/10.1145/3311790.3396647."
+    - "Christian Garcia, Joe Stubbs, Julia Looney, Anagha Jamthe, and Mike Packard. Abaco – A Modern Platform for HighThroughput Parallel Scientific Computations. International Workshop on Science Gateways. June 2020. (Paper abstract and demo talk)."
+    - "Christian R. Garcia, Joe Stubbs, Julia Looney, Anagha Jamthe, Mike Packard and Kreshel Nguyen. The Abaco Platform: A Performance and Scalability Study on the Jetstream Cloud. The 16th International Conference on Grid, Cloud, and Cluster Computing (GCC'20), World Congress in Computer Science, Computer Engineering, and Applied Computing (CSCE), 27-30 July 2020."
+    - "Joe Stubbs, Chritian Garcia, Julia Looney, Anagha Jamthe and Mike Packard. Enabling Science with Functions-as-a-Service: New Features and Usage of the Abaco Platform. To appear in Gateways 2020."
+    - "Joe Stubbs, Suresh Marru, Daniel Mejia, Daniel S. Katz, Kyle Chard, Maytal Dahan, Marlon Pierce, and Michael Zentner. 2020.Toward Interoperable Cyberinfrastructure: Common Descriptions for Computational Resources and Applications. In Practice and Experience in Advanced Research Computing (PEARC ’20), July 26–30, 2020, Portland, OR, USA.ACM, New York, NY, USA, 6 pages.https://doi.org/10.1145/3311790.3400848."
+    - "Suresh Marru, Dimuthu Wannipurage, Donald McMullen, Sudhakar Pamidighantam, Marlon Pierce, Joe Stubbs, Steve Black, Maytal Dahan, Daniel Mejia, Claire Stirm, and Michael Zentner, Design and Implementation of SGCI Resource Inventory. To Appear Gateways 2020."
 - year: 2019
   articles:
     - "Anagha J, Packard M, Stubbs J, Curbelo G, Shapi R, and Chalhoub E. SSH-Backed API Performance Case Study. Bench19: Benchmarking, Measuring and Optimizing. November 14-16, 2019."
@@ -12,13 +21,10 @@
     - "Proctor W. C., Packard M., Jamthe A., Cardone R., Stubbs J. Virtualizing the Stampede2 Supercomputer with Applications to HPC in the Cloud. Proceedings of the Practice and Experience on Advanced Research Computing, PEARC 2018. July 22 - 26, 2018."
     - "Cleveland S. B., Dooley R., Perry D., Stubbs J., Fonner J., Jacobs G. A. Building Science Gateway Infrastructure in the Middle of the Pacific and Beyond: Experiences using the Agave Deployer and Agave Platform to Build Science Gateways. Proceedings of the Practice and Experience on Advanced Research Computing, PEARC 2018. July 22 - 26, 2018."
     - "Stubbs J., Terry S., Poindexter M., Looney J. TACC's Cloud Deployer: Automating the Management of Distributed Software Systems. The 2nd Industry/University Joint International Workshop on Data Center Automation, Analytics, and Control (DAAC). Supercomputing 2018."
-- year: 2017
-  articles:
-    - "Stubbs J., ​Talley S., Moreira W., Stapleton A., Dooley R. Endofday: A Container Workflow Engine for Scalable, Reproducible Computation. 8th International Workshop on Science Gateways. To appear in PeerJ Computer Science."
-    - "Stubbs J., Dooley R., Vaughn M. Containers-as-a-service via the Actor Model.  (Extended Abstract). Proceeding of the 11th Gateway Computing Environments Conference."
 - year: Prior to 2017
   articles:
-    - "Stubbs J., Dooley R., Vaughn M. Containers-as-a-service via the Actor Model.  (Extended Abstract). Proceeding of the 11th Gateway Computing Environments Conference."
+    - "Stubbs J., Dooley R., Vaughn M. Containers-as-a-service via the Actor Model.  (Extended Abstract). Proceeding of the 11th Gateway Computing Environments Conference (Gateways 16). San Diego, CA. 2016."
+    - "Stubbs J., Talley S., Moreira W., Stapleton A., Dooley R. Endofday: A Container Workflow Engine for Scalable, Reproducible Computation. 8th International Workshop on Science Gateways (IWSG 2016).  url: http://ceur-ws.org/Vol-1871/paper6.pdf. To appear in PeerJ Computer Science."
     - "Stubbs J., Moreira W., Dooley R. Distributed Systems of Microservices Using Docker and Serfnode. Proceedings of the 7th International Workshop on Science Gateways. IEEE, 2015. doi:10.1109/IWSG.2015.16"
     - "Krishnakumar V., Hanlon M., Contrino S., Ferlanti E., Karamycheva S., Kim M., Rosen B., Cheng C., Moreira W., Mock S., Stubbs J., Sullivan J., Krampis K., Miller J., Micklem G., Vaughn M,. Town C. Araport: the Arabidopsis Information Portal. Nucleic Acids Research (18) 2015. doi: 10.1093/nar/gku1200"
     - "Hanlon M., Vaughn W., Mock S., Dooley R., Moreira W., Stubbs J, Town C., Miller J., Krishnakumar V., Ferlanti E., Pence E. Araport: An application platform for data discovery. Concurrency and Computation Practice and Experience 27(16). April 2015. DOI: 10.1002/cpe.3542"
