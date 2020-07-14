@@ -21,7 +21,7 @@
     - "Proctor W. C., Packard M., Jamthe A., Cardone R., Stubbs J. Virtualizing the Stampede2 Supercomputer with Applications to HPC in the Cloud. Proceedings of the Practice and Experience on Advanced Research Computing, PEARC 2018. July 22 - 26, 2018."
     - "Cleveland S. B., Dooley R., Perry D., Stubbs J., Fonner J., Jacobs G. A. Building Science Gateway Infrastructure in the Middle of the Pacific and Beyond: Experiences using the Agave Deployer and Agave Platform to Build Science Gateways. Proceedings of the Practice and Experience on Advanced Research Computing, PEARC 2018. July 22 - 26, 2018."
     - "Stubbs J., Terry S., Poindexter M., Looney J. TACC's Cloud Deployer: Automating the Management of Distributed Software Systems. The 2nd Industry/University Joint International Workshop on Data Center Automation, Analytics, and Control (DAAC). Supercomputing 2018."
-- year: Prior to 2017
+- year: 2017 and Prior
   articles:
     - "Stubbs J., Dooley R., Vaughn M. Containers-as-a-service via the Actor Model.  (Extended Abstract). Proceeding of the 11th Gateway Computing Environments Conference (Gateways 16). San Diego, CA. 2016."
     - "Stubbs J., Talley S., Moreira W., Stapleton A., Dooley R. Endofday: A Container Workflow Engine for Scalable, Reproducible Computation. 8th International Workshop on Science Gateways (IWSG 2016).  url: http://ceur-ws.org/Vol-1871/paper6.pdf. To appear in PeerJ Computer Science."
